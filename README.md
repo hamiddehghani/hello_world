@@ -1,2 +1,5 @@
 # hello_world
-learning
+
+Hu Hamid
+
+but as for now
